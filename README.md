@@ -1,5 +1,5 @@
 
-# **A Week in the Life of an SAP Consultant 
+# A Week in the Life of an SAP Consultant 
 
 
 ## **What is SAP?**
